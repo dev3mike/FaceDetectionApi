@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "o4W3sctbHncX7kUrRE3WhV4Z96DWrBD4pnwTyALKK+mwCG/JImGvcnszEn7aTHmhLZePnI3J0qOKs77QnGrKeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\FaceDetectionApi\\Faces\\FaceApiTest\\FaceApiTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\masou\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\masou\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\masou\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\masou\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

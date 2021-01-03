@@ -1,0 +1,7 @@
+C:\Projects\FaceDetectionApi\Faces\FacesApi\obj\Debug\net5.0\FacesApi.csprojAssemblyReference.cache
+C:\Projects\FaceDetectionApi\Faces\FacesApi\obj\Debug\net5.0\FacesApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\FaceDetectionApi\Faces\FacesApi\obj\Debug\net5.0\FacesApi.AssemblyInfoInputs.cache
+C:\Projects\FaceDetectionApi\Faces\FacesApi\obj\Debug\net5.0\FacesApi.AssemblyInfo.cs
+C:\Projects\FaceDetectionApi\Faces\FacesApi\obj\Debug\net5.0\FacesApi.csproj.CoreCompileInputs.cache
+C:\Projects\FaceDetectionApi\Faces\FacesApi\obj\Debug\net5.0\FacesApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\FaceDetectionApi\Faces\FacesApi\obj\Debug\net5.0\FacesApi.MvcApplicationPartsAssemblyInfo.cache

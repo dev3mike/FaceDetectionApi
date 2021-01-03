@@ -26,7 +26,7 @@
         },
         "frameworks": {
           "net5.0": {
-            "targetAlias": "net5.0",
+            "targetAlias": "netcoreapp5.0",
             "projectReferences": {}
           }
         },
@@ -38,7 +38,7 @@
       },
       "frameworks": {
         "net5.0": {
-          "targetAlias": "net5.0",
+          "targetAlias": "netcoreapp5.0",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",

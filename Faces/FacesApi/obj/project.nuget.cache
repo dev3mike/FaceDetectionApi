@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fcpHqDcntbES08uHmbKSTxWFLUvHClplYUnGokBfrix+wSdMJtG5vAdWcvn+ZWbCDA4Lj/TTc74egvKY5LV1Rg==",
+  "dgSpecHash": "AdB5GBzj0csR5FsnLSs4Bp79hyyWpjc6tZrzXMCfZFBxXMFw3QVAKgPF38RbhM25eoxW+UHDbl7cDgUi19VXdA==",
   "success": true,
   "projectFilePath": "C:\\Projects\\FaceDetectionApi\\Faces\\FacesApi\\FacesApi.csproj",
   "expectedPackageFiles": [

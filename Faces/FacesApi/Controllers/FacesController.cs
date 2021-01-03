@@ -32,7 +32,7 @@ namespace FacesApi.Controllers
             src.SaveImage("image.jpg", new ImageEncodingParam(ImwriteFlags.JpegProgressive, 255));
 
             // Load Cascade File
-            var cascadeFilePath = Path.Combine(Directory.GetCurrentDirectory(), "CascadeFile", "haarcascade_frontalface_default.xml");
+            var cascadeFilePath = Path.Combine(Directory.GetCurrentDirectory(), "CascadeFiles", "haarcascade_frontalface_default.xml");
             var faceCascade = new CascadeClassifier();
             faceCascade.Load(cascadeFilePath);
 

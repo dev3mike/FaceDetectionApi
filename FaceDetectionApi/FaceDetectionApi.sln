@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Faces", "Faces", "{B48C55E4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacesApi", "..\Faces\FacesApi\FacesApi.csproj", "{045CCACA-BA88-4FC9-96BC-D4195A744C56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceApiTest", "..\Faces\FaceApiTest\FaceApiTest.csproj", "{A07879C7-2E39-487F-837C-6F37F2EBBA19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{045CCACA-BA88-4FC9-96BC-D4195A744C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{045CCACA-BA88-4FC9-96BC-D4195A744C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{045CCACA-BA88-4FC9-96BC-D4195A744C56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A07879C7-2E39-487F-837C-6F37F2EBBA19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07879C7-2E39-487F-837C-6F37F2EBBA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07879C7-2E39-487F-837C-6F37F2EBBA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07879C7-2E39-487F-837C-6F37F2EBBA19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{045CCACA-BA88-4FC9-96BC-D4195A744C56} = {B48C55E4-134C-4099-8D11-A428BA3EC765}
+		{A07879C7-2E39-487F-837C-6F37F2EBBA19} = {B48C55E4-134C-4099-8D11-A428BA3EC765}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8789791A-1448-45C7-A74B-22ADE4C7770E}
