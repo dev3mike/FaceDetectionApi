@@ -43,4 +43,3 @@ C:\Projects\FaceDetectionApi\Faces\FacesApi\obj\Debug\netcoreapp5.0\FacesApi.dll
 C:\Projects\FaceDetectionApi\Faces\FacesApi\obj\Debug\netcoreapp5.0\ref\FacesApi.dll
 C:\Projects\FaceDetectionApi\Faces\FacesApi\obj\Debug\netcoreapp5.0\FacesApi.pdb
 C:\Projects\FaceDetectionApi\Faces\FacesApi\obj\Debug\netcoreapp5.0\FacesApi.genruntimeconfig.cache
-C:\Projects\FaceDetectionApi\Faces\FacesApi\bin\Debug\netcoreapp5.0\CascadeFiles\haarcascade_frontalface_default.xml

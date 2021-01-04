@@ -1,0 +1,32 @@
+﻿@model FaceApiWebMVC.Controllers.OrderViewModel
+@{
+    ViewData["Title"] = "Register New Order";
+}
+
+<h1>Register New Order</h1>
+
+<form asp-controller="Home" asp-action="RegisterOrder" enctype="multipart/form-data">
+
+    <div class="row">
+
+        <div class="col-md-10">
+
+            <h3>Enter your email address and upload your faces picture</h3>
+            <div class="form-group">
+
+                <label asp-for="UserEmail"></label>
+                <input asp-for="UserEmail" class="form-control" />
+            </div>
+        </div>
+
+        <div class="col-md-10">
+
+            <p>Upload your image file using the button below</p>
+            <input type="file" name="file" />
+        </div>
+
+    </div>
+    <input type="submit" class="btn btn-info" value="Submit" />
+
+</form>
+
